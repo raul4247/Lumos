@@ -17,7 +17,7 @@
         android:layout_gravity="center_horizontal"
         android:textSize="@dimen/title_size" />
 
-    <Button
+    <ImageButton
         android:id="@+id/light_bulb_button"
         android:layout_width="@dimen/light_bulb_width"
         android:layout_height="@dimen/light_bulb_height"
