@@ -1,6 +1,5 @@
-package com.raulfm.lumos.backend
+package com.raulfm.lumos.Backend
 
-import android.R
 import android.media.MediaPlayer
 import com.raulfm.lumos.MainActivity
 
